@@ -1,0 +1,71 @@
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:36.418Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:36.485Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:36.595Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:36.750Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:36.952Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:37.216Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:37.528Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:37.886Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:38.291Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:38.750Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:39.264Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:39.825Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:40.430Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:41.084Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:41.789Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:00:42.555Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:42.347Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:42.405Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:42.516Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:42.670Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:42.873Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:43.139Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:43.451Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:43.809Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:44.225Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:44.679Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:45.196Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:45.756Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:06:46.363Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:18:34.816Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:18:34.877Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:18:34.983Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:18:35.138Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:18:35.342Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:18:35.607Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:18:35.919Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:18:36.279Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:21:01.064Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:21:01.131Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:21:01.240Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:21:01.396Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:21:01.600Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:21:01.865Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:21:02.178Z"}
+{"level":"error","message":"Redis connection failed:","timestamp":"2025-05-08T12:21:02.542Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:46.135Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:46.239Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:46.455Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:46.768Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:47.176Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:47.694Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:48.308Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:49.015Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:49.831Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:50.743Z"}
+{"level":"error","message":"Redis connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2025-05-08T12:28:51.751Z"}
+{"level":"error","message":"Error: E11000 duplicate key error collection: collabspace.users index: email_1 dup key: { email: \"test@example.com\" }","stack":"MongoServerError: E11000 duplicate key error collection: collabspace.users index: email_1 dup key: { email: \"test@example.com\" }\n    at InsertOneOperation.execute (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n    at async executeOperation (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n    at async Collection.insertOne (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\collection.js:157:16)","timestamp":"2025-05-08T13:04:29.544Z"}
+{"level":"error","message":"Error: Not authorized, token failed","stack":"Error: Not authorized, token failed\n    at C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\middleware\\authMiddleware.js:23:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-05-08T14:28:10.157Z"}
+{"level":"error","message":"Error: Not authorized, token failed","stack":"Error: Not authorized, token failed\n    at C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\middleware\\authMiddleware.js:23:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-05-08T14:28:30.165Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","stack":"MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at Topology.selectServer (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:321:38)\n    at async tryOperation (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:145:18)\n    at async executeOperation (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n    at async FindCursor._initialize (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\find_cursor.js:61:26)\n    at async FindCursor.cursorInit (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:633:27)\n    at async FindCursor.fetchBatch (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:667:13)\n    at async FindCursor.next (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:347:17)\n    at async Collection.findOne (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\collection.js:277:21)\n    at async model.Query._findOne (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongoose\\lib\\query.js:2661:15)\n    at async model.Query.exec (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongoose\\lib\\query.js:4548:63)","timestamp":"2025-05-08T14:29:57.317Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","stack":"MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at Topology.selectServer (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:321:38)\n    at async tryOperation (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:145:18)\n    at async executeOperation (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n    at async FindCursor._initialize (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\find_cursor.js:61:26)\n    at async FindCursor.cursorInit (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:633:27)\n    at async FindCursor.fetchBatch (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:667:13)\n    at async FindCursor.next (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:347:17)\n    at async Collection.findOne (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\collection.js:277:21)\n    at async model.Query._findOne (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongoose\\lib\\query.js:2661:15)\n    at async model.Query.exec (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongoose\\lib\\query.js:4548:63)","timestamp":"2025-05-08T14:29:58.843Z"}
+{"level":"error","message":"Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","stack":"MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at Topology.selectServer (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:321:38)\n    at async tryOperation (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:145:18)\n    at async executeOperation (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n    at async FindCursor._initialize (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\find_cursor.js:61:26)\n    at async FindCursor.cursorInit (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:633:27)\n    at async FindCursor.fetchBatch (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:667:13)\n    at async FindCursor.next (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:347:17)\n    at async Collection.findOne (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongodb\\lib\\collection.js:277:21)\n    at async model.Query._findOne (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongoose\\lib\\query.js:2661:15)\n    at async model.Query.exec (C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\node_modules\\mongoose\\lib\\query.js:4548:63)","timestamp":"2025-05-08T14:29:59.534Z"}
+{"level":"error","message":"MongoDB connection failed:","timestamp":"2025-05-08T14:30:37.134Z"}
+{"level":"error","message":"Error: Invalid credentials","stack":"Error: Invalid credentials\n    at C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\controllers\\authController.js:22:17","timestamp":"2025-05-08T15:55:34.661Z"}
+{"level":"error","message":"Error: Invalid credentials","stack":"Error: Invalid credentials\n    at C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\controllers\\authController.js:22:17","timestamp":"2025-05-08T16:20:40.800Z"}
+{"level":"error","message":"Error: Invalid credentials","stack":"Error: Invalid credentials\n    at C:\\Users\\HP\\OneDrive\\Desktop\\collabspace\\backend\\controllers\\authController.js:22:17","timestamp":"2025-05-08T16:23:03.947Z"}
+{"level":"error","message":"MongoDB connection failed:","timestamp":"2025-05-08T16:30:25.105Z"}
+{"level":"error","message":"MongoDB connection failed:","timestamp":"2025-05-08T16:32:41.693Z"}
+{"level":"error","message":"MongoDB connection failed:","timestamp":"2025-05-08T16:40:20.564Z"}
+{"level":"error","message":"MongoDB connection failed:","timestamp":"2025-05-08T16:50:23.310Z"}
+{"level":"error","message":"MongoDB connection failed:","timestamp":"2025-05-08T16:51:33.085Z"}

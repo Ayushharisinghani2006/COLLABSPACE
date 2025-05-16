@@ -1,0 +1,11 @@
+{"level":"error","message":"Login error: Illegal arguments: string, undefined","timestamp":"2025-05-09T01:28:57.651Z"}
+{"level":"error","message":"Login error: Illegal arguments: string, undefined","timestamp":"2025-05-09T01:28:59.105Z"}
+{"level":"error","message":"Login error: Illegal arguments: string, undefined","timestamp":"2025-05-09T01:29:06.300Z"}
+{"level":"error","message":"Login error: Illegal arguments: string, undefined","timestamp":"2025-05-09T04:06:29.964Z"}
+{"level":"error","message":"Login error: Illegal arguments: string, undefined","timestamp":"2025-05-09T04:06:40.903Z"}
+{"level":"error","message":"Login error: Illegal arguments: string, undefined","timestamp":"2025-05-09T04:06:41.317Z"}
+{"level":"error","message":"Login error: Illegal arguments: string, undefined","timestamp":"2025-05-09T04:06:41.537Z"}
+{"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-05-09T06:02:59.231Z"}
+{"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-05-09T06:02:59.234Z"}
+{"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-05-09T06:03:10.928Z"}
+{"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-05-09T06:03:10.929Z"}
